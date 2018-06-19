@@ -34,3 +34,12 @@ https://chat.whatsapp.com/0Jlk5nzJnvuAHSfPiPSdua
 
 ## Site Oficial (blogs, contatos, etc)
 http://serenitybrasil.com.br/
+
+## Facebook 
+https://fb.me/serenitybrasil
+
+## Wiki
+https://github.com/rolembergfilho/SerenityBrasil/wiki/Participantes
+
+## Participantes do Serenity Brasil e América Latina
+https://github.com/rolembergfilho/SerenityBrasil/wiki/Participantes
