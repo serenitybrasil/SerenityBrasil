@@ -10,7 +10,7 @@ Local para estudos da plataforma Serenity - Brasil e América Latina.
 A linguagem utilizada é Português-BR, mas sinta-se à vontade para perguntar em Português de outras nacionalidades, Espanhol ou Inglês.
 Faremos um esforço para lhe ajudar a integrar a plataforma Serenity no seu negócio
 
-**IMPORTANTE: não tenho ligação comercial ou de qualquer natureza com o Volkan, ou com qualquer integrante comercial da plataforma Serenity. **
+**IMPORTANTE: não tenho ligação comercial ou de qualquer natureza com o Volkan, ou com qualquer integrante comercial da plataforma Serenity.**
 
 ## Objetivos:
 
