@@ -33,4 +33,4 @@ Participe do nosso grupo do WhatsApp:
 https://chat.whatsapp.com/0Jlk5nzJnvuAHSfPiPSdua
 
 ## Site Oficial (blogs, contatos, etc)
-serenitybrasil.com.br
+http://serenitybrasil.com.br/
