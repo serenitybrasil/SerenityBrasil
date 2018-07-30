@@ -26,6 +26,10 @@ O Serenity original está nesse link: https://github.com/volkanceylan/Serenity
 
 Já o Serenity desse grupo está nesse link: https://github.com/rolembergfilho/Serenity
 
+## Código de Exemplos para estudos:
+
+Temos um deploy de exemplos para estudos de funcionalidades diversas: https://github.com/serenitybrasil/Exemplos
+
 ## WhatsApp
 
 Participe do nosso grupo do WhatsApp:
